@@ -1,7 +1,7 @@
 behaviour-driver
 ================
 
-A behaviour driven model construction implemented in Matlab using a Genetic Algorithm on the Hornberg 2005 MAPK signaling transduction pathway model.
+This software illustrates a behaviour driven model construction approach. It is implemented in Matlab using a Genetic Algorithm and uses as a case study the Hornberg 2005 MAPK signaling transduction pathway model.
 
 ================
 <b>Remarks:</b> <br/>
